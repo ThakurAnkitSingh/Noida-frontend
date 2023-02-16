@@ -1,3 +1,10 @@
+# working
+
+We are using React Js for the Frontend. First user will give two number then api post will occur and then backend fetch number and calculate them. Then it will send the response and response will render on frontend.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
